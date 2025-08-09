@@ -1,28 +1,39 @@
-# 💫 Hi There! I`m foggych:
-Solidity dev, Smart contract builder, Web3 explorer
+### Hi there! I'm Foggych
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/%200xfoggych-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000
-)](https://x.com/0xfoggych) [<img src="https://i.imgur.com/GoCw2qG.png" alt="Logo" height="26" />](https://www.linkedin.com/in/ihorhrychyna/)
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTV6azFpbTdrd2dzMThlOWg0b253bnY2aDZ3ZTg2anlxdDZpMGo5aSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/J7kDd16qbMQimnCf8S/giphy.gif" alt="Funny GIF" width="300" />
 
 
 
+Solidity / Smart Contract Engineer 
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/%20Solidity-363636?style=for-the-badge&logo=solidity&logoColor=363636&labelColor=white) ![Python](https://img.shields.io/badge/%20Python-306998?style=for-the-badge&logo=python&logoColor=306998&labelColor=white) <img src="https://i.imgur.com/JYxa6VG.png" alt="Hardhat Icon" height="26" style="vertical-align: middle;" /> [![Hardhat](https://img.shields.io/badge/%20Hardhat-F0B90B?style=for-the-badge&logo=hardhat&logoColor=F0B90B&labelColor=white)](https://hardhat.org/) <img src="https://i.imgur.com/BEc4QQT.png" alt="Remix Icon" height="26" style="vertical-align: middle;" /> ![Remix](https://img.shields.io/badge/Remix-3776AB?style=for-the-badge&labelColor=white)
-
-
+### Skills
 
 
-
-
-
-
+| Solidity | Python | 
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> 
+ 
 
 
 
+### IDE
+
+| Remix | VS Code 
+|----------|----------|
+|<img src="https://imgur.com/95oTwBS.png" title="Anaconda" alt="Remix" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Vs code" alt="Jupiter" width="55" height="55"/>
+
+  
+### Environments, Testing, Other:
+
+| HardHat | Git |
+|----------|----------
+| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>
 
 
 
+### 📫 Get in touch:
+- Twitter: [@0xfoggych](https://x.com/0xfoggych)
+- LinkedIn: [@ihorhrychyna](https://www.linkedin.com/in/ihorhrychyna/)
+- Mail: [0xfoggych@gmail.com](mailto:0xfoggych@gmail.com)
 
