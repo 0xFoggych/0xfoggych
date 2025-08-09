@@ -4,7 +4,7 @@ Solidity dev, Smart contract builder, Web3 explorer
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/%200xfoggych-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000
-)](https://x.com/0xfoggych) [<img src="https://i.imgur.com/GoCw2qG.png" alt="Logo" height="26" />](https://your-site.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihorhrychyna/)
+)](https://x.com/0xfoggych) [<img src="https://i.imgur.com/GoCw2qG.png" alt="Logo" height="26" />](https://www.linkedin.com/in/ihorhrychyna/)
 
 
 
